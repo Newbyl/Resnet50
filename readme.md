@@ -12,10 +12,6 @@ I used tensorflow for this implementation.
 
 You can find examples of how to use it in the `Resnet_Example.ipynb` file.
 
-You can find the weights of the model trained on an hand signs dataset in the `weights` folder.
-
-There is also pretrained weights that I didn't used in the example in `.h5` format in the weights folder named `resnet50.h5`
-
 ### Files
 
 The model implementation is in the `resnet50.py` file. There is also several useful functions for Layers and datasets related import functions in the resnets_utils.py
